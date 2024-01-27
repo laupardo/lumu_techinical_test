@@ -2,6 +2,8 @@
 
 This Python script (`lumu_technical_test.py`) parses BIND 9 logs and extracts specific information and sends it to the Collectors API. It also calculates and prints statistics based on the log entries.
 
+Time complexity O(N Log N)
+
 ## Usage
 
 ### Prerequisites
