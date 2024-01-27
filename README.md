@@ -18,7 +18,7 @@ This Python script (`lumu_technical_test.py`) parses BIND 9 logs and extracts sp
     python lumu_technical_test.py path/to/your/bind9.log
     ```
 
-    Replace `path/to/your/bind9.log` with the actual path to your BIND 9 log file.
+    Replace `path/to/your/bind9.log` with the actual path to your BIND 9 log file. In this repo you will find a file named queries which serves as a sample file.
 
 ### Required Imports
 
